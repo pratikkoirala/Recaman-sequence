@@ -1,4 +1,4 @@
-def Recaman(n):
+def Recaman(n):         //Outputs recaman sequence starting with 0 and ending in n.
     output = 0
     counter = 1
     result = []
